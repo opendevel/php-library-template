@@ -1,0 +1,10 @@
+/.idea/
+/.env
+/.phpunit.result.cache
+/_/
+/tests/.env
+/tests/output/
+/tests/.phpunit.result.cache
+/tests/Request/Import/Model/.phpunit.result.cache
+/vendor/
+*.cache
